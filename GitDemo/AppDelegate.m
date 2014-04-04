@@ -17,6 +17,14 @@
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     NSLog(@"删除空行,并添加一行");
+    
+    
+    NSLog(@"12312312123");
+    
+
+    
+    
+
     return YES;
 }
 
